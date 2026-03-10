@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "FEELINGS",
+  "base_artist": "3House",
+  "createdAt": "2026-03-10T02:33:57.616430Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Hard Feelings",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/01_No_Hard_Feelings_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer Feelings (feat. Charlie Puth)",
+      "artist": "Lennon Stella feat. Charlie Puth",
+      "has_synced": true,
+      "path": "select/02_Summer_Feelings_(feat._Charlie_Puth)_Lennon_Stella_feat._Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Fight the Feelings of Love",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/03_Don't_Fight_the_Feelings_of_Love_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In My Feelings",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/04_In_My_Feelings_Drake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In My Feelings (feat. City Girls)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/05_In_My_Feelings_(feat._City_Girls)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In My Feelings",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/06_In_My_Feelings_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feelings Change",
+      "artist": "Yaeji",
+      "has_synced": true,
+      "path": "select/07_Feelings_Change_Yaeji.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feelings Mutual",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/08_Feelings_Mutual_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Feelings",
+      "artist": "Light Pollution",
+      "has_synced": false,
+      "path": "select/09_Good_Feelings_Light_Pollution.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hard Feelings/Loveless",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/10_Hard_Feelings_Loveless_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hard Feelings\u0000Loveless",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/11_Hard_Feelings\u0000Loveless_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mechanical Feelings",
+      "artist": "Lost Sounds",
+      "has_synced": false,
+      "path": "select/12_Mechanical_Feelings_Lost_Sounds.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Street Feelings",
+      "artist": "Las Robertas",
+      "has_synced": true,
+      "path": "select/13_Street_Feelings_Las_Robertas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crazy Feelings",
+      "artist": "Missy Elliott feat. Beyoncé",
+      "has_synced": true,
+      "path": "select/14_Crazy_Feelings_Missy_Elliott_feat._Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crazy Feelings (feat. Beyoncé)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/15_Crazy_Feelings_(feat._Beyoncé)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Weird Feelings",
+      "artist": "Male Bonding",
+      "has_synced": true,
+      "path": "select/16_Weird_Feelings_Male_Bonding.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Feeling Feelings",
+      "artist": "oOoOO feat. Islamiq Grrrls",
+      "has_synced": false,
+      "path": "select/17_Feeling_Feelings_oOoOO_feat._Islamiq_Grrrls.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Feelings Meeting",
+      "artist": "Living Hour",
+      "has_synced": true,
+      "path": "select/18_Feelings_Meeting_Living_Hour.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FEELINGS",
+      "artist": "3House",
+      "has_synced": false,
+      "path": "select/pl_01_FEELINGS_3House.txt"
+    }
+  ]
+}
