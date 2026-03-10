@@ -1,0 +1,27 @@
+# 3House – FEELINGS
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+このまま暗い抜け出す闇を
+あの雲の上 in my zone
+17夢見る今も
+メロディーが繋ぐin my soul
+時に失いそうで不安で
+あの日は戻らないもう
+側にいたいのに近づけない
+家族仲間から学ぶ愛
+Feeling..
+今はただFeelin like..
+You know i'm Feelin like..
+灯るライトの下で歌って
+目を閉じれば側に君がいて
+変わる街を背に今走ってる
+戻れない道乗るこのone way
+1人願う夜に 今届きそうな光
+気づけば周りに溢れる
+You know i'm feeling right ただ前へ
+Feeling..
+今はただFeelin like..
+You know i'm Feelin like..
+```
